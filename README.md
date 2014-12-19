@@ -1,5 +1,6 @@
 # Statistical Data Analysis in Python
 
+#small additions to it. remove later. 
 Introductory Tutorial, SciPy 2013, 25 June 2013
 
 ***Christopher Fonnesbeck - Vanderbilt University School of Medicine***
